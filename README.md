@@ -2,7 +2,7 @@
 
 ![Iphone telephone gif](./img/Iphone-Telephone.gif)
 
-[👉click here to login Home Furnishing Page] (https://ilkerkr.github.io/Iphone-Telephone/)
+[👉click here to login Iphone Telephone] (https://ilkerkr.github.io/Iphone-Telephone/)
 
 <h2>Description</h2>
 
